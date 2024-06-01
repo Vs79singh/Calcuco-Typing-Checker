@@ -1,12 +1,12 @@
-# Typing-Titans
+# Calcuco-Typing-Checker 
 ### Running the project
 
-The project uses NPM. It is strictly advised to stick with NPM so as to avoid dependency conflicts down the line. Please ensure you have Nodejs installed
+NPM is implemented in the project. It is strongly recommended that you follow NPM to avoid any potential dependency conflicts in the future. Please verify that Node.js is installed.
 
 ### Starting the frontend
 
 ```
-## Checkout into the Frontend directory
+## Enter the Frontend directory during checkout.
 cd client
 
 ## Install Dependencies
@@ -20,7 +20,7 @@ npm run start
 ### Starting the Server
 
 ```
-## Checkout into the Backend directory
+##  Enter the backend directory during checkout.
 cd backend
 
 ## Install Dependencies
